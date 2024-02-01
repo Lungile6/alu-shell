@@ -1,7 +1,0 @@
-#!/urs/bin/env bash
-#Code for loop of "Best School" ten times
-
-for (( i=0; i<10; i++ ))
-do 
-       echo "Best School"
-done
