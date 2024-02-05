@@ -1,5 +1,4 @@
 #!usr/bin/env bash
 #The bash script that displays PID, along with the process name
-# ps is forbidden
-
+# cannot use p s
 pgrep -l bash
