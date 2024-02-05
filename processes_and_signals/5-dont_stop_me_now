@@ -7,5 +7,5 @@ id=$(pgrep "bash ./4-to_infinity_and_beyond" -f)
 #Terminate the infite process
 if [ -n "$id" ]
 then 
-   kill -l5 "id"
+   kill -15 "id"
 fi
