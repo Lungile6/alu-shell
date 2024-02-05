@@ -1,4 +1,4 @@
-#!usr/bin/env bash
+#!/usr/bin/env bash
 #The bash script that displays PID, along with the process name
 # cannot use p s
 pgrep -l bash
